@@ -388,7 +388,7 @@ h3::after{
   justify-content: space-around;
 }
 .facilities__content-icon{
-  width: 205px;
+  width: 180px;
   display: flex;
   gap: 20px;
 }
@@ -783,6 +783,7 @@ footer p{
 .social{
   width: 100%;
   display: flex;
+  flex-wrap: wrap;
   justify-content: center;
   align-items: center;
   height: 120px;
